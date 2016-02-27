@@ -1,0 +1,28 @@
+name: marcello
+favicon: null
+layout_spectrum: 0.2391552000772208
+typography_spectrum: 0.23429713654331863
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#B8B42D'
+    - '#697A21'
+    - '#FFFCE8'
+    - '#3E363F'
+    - '#DD403A'
+  brandStrength: 0.12812107056379318
+  lightness: 0.07039591250941157
+  saturation: 0.2501551185268909
+  rhythmicContrast: 0.05786880012601614
+purpose: []
