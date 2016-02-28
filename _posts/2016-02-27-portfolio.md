@@ -3,11 +3,11 @@ inFeed: true
 hasPage: true
 inNav: true
 inLanguage: null
-starred: false
+starred: true
 keywords: []
 description: 'Marcello Alvarado  |  Senior UX / UI Designer and Front-end Developer  |  Portfolio '
-datePublished: '2016-02-28T00:07:33.871Z'
-dateModified: '2016-02-28T00:06:55.733Z'
+datePublished: '2016-02-28T00:08:23.073Z'
+dateModified: '2016-02-28T00:07:41.134Z'
 title: Walk In Sync
 author: []
 sourcePath: _posts/2016-02-27-portfolio.md
