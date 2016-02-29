@@ -4,7 +4,7 @@
         <description><![CDATA[Marcello Alvarado - Los Angeles Lead UX / UI Designer and Front-end Developer  |  Web & Mobile UX/UI Design & Development  |  Graphic Design  |  Front-end Development  |  Landing Pages]]></description>
         <link>https://thegrid.ai/marcello/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sun, 28 Feb 2016 00:08:47 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 29 Feb 2016 02:32:43 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/marcello/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Walk In Sync]]></title>
@@ -12,6 +12,13 @@
             <link>https://thegrid.ai/marcello/portfolio/index.html</link>
             <guid isPermaLink="false">b0d7cf00-45c9-44dc-a71d-ff888e32429b</guid>
             <pubDate>Sun, 28 Feb 2016 00:08:23 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[The Experience]]></title>
+            <description><![CDATA[<article><h1>The Experience</h1><p>I created the evolutionary, Walk In Sync™ System to make training, walking and excercising your companion the most rewarding, safe and comfortable experience possible for both you and your dog. You will notice an immediate difference in your dog's behavior as well as your ability to calmly and effectively be your dog's leader from the moment you start using the patented Harness and Leash and 3 Easy Step Training Videos.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/2c4e460ae1d2e1ca76c18ac2fb434f23be11991e.jpg"></article>]]></description>
+            <link>https://www.dogwalkinsync.com/experience</link>
+            <guid isPermaLink="false">97f6e057-8fd3-42cc-8689-f73fecbf1750</guid>
+            <pubDate>Mon, 29 Feb 2016 02:32:42 GMT</pubDate>
         </item>
     </channel>
 </rss>
